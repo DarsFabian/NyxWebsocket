@@ -6,12 +6,12 @@ Nyx Websocket is a personnal C implementation of the Websocket technology as spe
 
 ## Summary
 
- 1. [Documentation and installation](##-Documentation-&-Installation)
- 2. [Issues, questions, features](##-Ran-into-a-problem?-Any-questions?-Missing-any-feature?)
- 3. [Performance](##-Performance)
- 4. [Notes](##-Notes)
- 5. [Todo](##-Todo)
- 6. [Contacts](##-Contacts)
+ 1. [Documentation and installation](https://github.com/DarsFabian/NyxWebsocket#documentation--installation)
+ 2. [Issues, questions, features](https://github.com/DarsFabian/NyxWebsocket#ran-into-a-problem-any-questions-missing-any-feature)
+ 3. [Performance](https://github.com/DarsFabian/NyxWebsocket#performance)
+ 4. [Notes](https://github.com/DarsFabian/NyxWebsocket#notes)
+ 5. [Todo](https://github.com/DarsFabian/NyxWebsocket#todo)
+ 6. [Contacts](https://github.com/DarsFabian/NyxWebsocket#contacts)
 
 ## Documentation & Installation
 Nyx Websocket doesn't have any documentation at the moment. Besides, it doesn't even provide any library for now. I will be adding a documentation as soon I feel like the project might need one.
