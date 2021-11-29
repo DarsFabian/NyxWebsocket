@@ -2,7 +2,7 @@
 
 Nyx Websocket is a personnal C implementation of the Websocket technology as specified by [RFC6455](https://datatracker.ietf.org/doc/html/rfc6455). It should be designed to be lightweight and as easy to use as possible, in contrast with most C/C++ implementations.
 
-![Template Image](https://carbon.now.sh/?bg=rgba%28125%2C197%2C220%2C1%29&t=one-dark&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=69px&ln=false&fl=1&fm=Fira+Code&fs=14px&lh=144%25&si=false&es=2x&wm=false&code=%2523include%2520%253Cnyx%252Fwebsocket%253E%250A%250Avoid%2520handleData%28Data%2520data%29%2520%257B%250A%2509Do%2520stuff...%250A%257D%250A%250Aint%2520main%28%29%2520%257B%250A%2509websocket%2520nyx%2520%253D%2520createWebsocket%28%29%253B%250A%2509nyx.on%28%27data%27%252C%2520handleData%29%253B%250A%2520%2520%2520%2520%250A%2520%2520%2520%2520return%25201%253B%250A%257D%250A)
+![Template Image](https://github.com/DarsFabian/NyxWebsocket/images/carbon.png)
 
 ## Summary
 
