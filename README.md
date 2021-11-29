@@ -2,7 +2,7 @@
 
 Nyx Websocket is a personnal C implementation of the Websocket technology as specified by [RFC6455](https://datatracker.ietf.org/doc/html/rfc6455). It should be designed to be lightweight and as easy to use as possible, in contrast with most C/C++ implementations.
 
-![Template Image](https://github.com/DarsFabian/NyxWebsocket/images/carbon.png)
+![Template Image](https://github.com/DarsFabian/NyxWebsocket/blob/master/images/carbon.png)
 
 ## Summary
 
